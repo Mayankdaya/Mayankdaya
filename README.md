@@ -15,7 +15,7 @@
 
 ## 🎯 Executive Summary
 
-**Senior Full-Stack Engineer** with expertise in designing enterprise-grade distributed systems and AI-powered applications. Specialized in cloud-native architectures using **React.js**, **Node.js**, and **AWS infrastructure**. Currently pursuing advanced Computer Science studies at **VIT Bhopal University** (CGPA: 8.73/10) while delivering production systems that scale to hundreds of concurrent users.
+**Aspiring Engineer** with expertise in designing enterprise-grade distributed systems and AI-powered applications. Specialized in cloud-native architectures using **React.js**, **Node.js**, and **AWS infrastructure**. Currently pursuing advanced Computer Science studies at **VIT Bhopal University** (CGPA: 8.73/10) while delivering production systems that scale to hundreds of concurrent users.
 
 **Core Expertise:** Cloud Architecture • Real-Time Systems • AI/ML Integration • Performance Engineering
 
