@@ -52,4 +52,44 @@ Production-scale system processing 500+ daily diagnoses with 92% accuracy across
 
 ---
 
+## 🎓 Education
+
+**Vellore Institute of Technology, VIT Bhopal** | *Nov 2022 - Present*
+- Bachelor of Technology in Computer Science and Engineering
+- CGPA: 8.73/10
+
+**Kendriya Vidyalaya Minambakkam, Chennai** | *May 2021*
+- Class XII - 91.8%
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **AWS Solutions Architect Associate** (Expected 2025)
+- **Salesforce Developer** - Ethnus (2024)
+- **Cloud Computing** - NPTEL (2024)
+- **Computer Networking** - Coursera (2023)
+- **Top 25/80** - AIxplain Hackathon (Natural Language Processing)
+- **Event Reporter** - Insight Club, VIT Bhopal (2023-2024)
+  - Documented 12+ technical workshops for 500+ students
+  - Authored 6 articles for university magazine (2000+ readers)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayankdaya&theme=dark&hide_border=true)
+
+---
+
+## 💼 What I'm Working On
+
+- 🚀 Building real-time collaborative platforms with WebRTC and WebSockets
+- 🤖 Developing AI-powered applications using TensorFlow and ML models
+- ☁️ Architecting scalable cloud-native solutions on AWS
+- 📚 Preparing for AWS Solutions Architect certification
+- 🌱 Learning Kubernetes and microservices architecture
+
+
+
 *Open for: Enterprise Consulting • Technical Leadership • Cloud Architecture • AI/ML Projects*
